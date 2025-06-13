@@ -6,3 +6,9 @@ PyPDF2
 spacy
 tqdm
 pdfminer.six
+
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+
